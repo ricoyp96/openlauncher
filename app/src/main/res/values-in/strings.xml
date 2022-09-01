@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Intro -->
+    <string name="intro1_text">Peluncur sumber terbuka dengan banyak fitur berguna.</string>
+    <string name="intro1_community">Komunitas Besar</string>
+    <string name="intro1_features">Dikemas dengan Fitur</string>
+    <string name="intro1_customizable">Dapat disesuaikan</string>
+    <string name="intro2_text">Gesek ke dalam dari batas kiri layar beranda Anda untuk membuka minibar dan memilih tindakan.</string>
+    <string name="intro3_text">Anda dapat memilih gaya untuk laci aplikasi Anda dan menyembunyikan aplikasi yang tidak digunakan dari pengaturan.</string>
+    <string name="intro4_text">Cari sesuatu di web atau filter aplikasi Anda dari bilah pencarian.</string>
+
+    <!-- Minibar -->
+    <string name="minibar">Minibar</string>
+    <string name="minibar_title__edit_minibar">Sunting Minibar</string>
+    <string name="minibar_summary__edit_minibar">Ubah tata letak minibar.</string>
+    <string name="minibar_title__set_wallpaper">Atur Wallpaper</string>
+    <string name="minibar_summary__set_wallpaper">Setel wallpaper desktop.</string>
+    <string name="minibar_title__lock_screen">Kunci Layar</string>
+    <string name="minibar_summary__lock_screen">Kunci layar segera.</string>
+    <string name="minibar_title__device_settings">Pengaturan Perangkat</string>
+    <string name="minibar_summary__device_settings">Pintasan ke pengaturan perangkat.</string>
+    <string name="minibar_title__launcher_settings">Pengaturan Peluncur</string>
+    <string name="minibar_summary__launcher_settings">Pintasan ke pengaturan OpenLauncher.</string>
+    <string name="minibar_title__volume_dialog">Dialog Volume</string>
+    <string name="minibar_summary__volume_dialog">Tampilkan semua penggeser volume yang tersedia.</string>
+    <string name="minibar_title__app_drawer">Buka Laci Aplikasi</string>
+    <string name="minibar_summary__app_drawer">Buka laci aplikasi.</string>
+    <string name="minibar_title__search_bar">Buka Bilah Pencarian</string>
+    <string name="minibar_summary__search_bar">Buka bilah pencarian.</string>
+    <string name="minibar_title__mobile_network">Pengaturan Jaringan Seluler</string>
+    <string name="minibar_summary__mobile_network">Pintasan ke pengaturan jaringan seluler.</string>
+    <string name="minibar_title__notification_bar">Tampilkan Bilah Pemberitahuan</string>
+    <string name="minibar_summary__notification_bar">Perluas tampilan notifikasi di bagian atas layar.</string>
+    <string name="minibar_title__camera">Kamera</string>
+    <string name="minibar_summary__camera">Ambil gambar dengan aplikasi kamera Anda</string>
+
+    <!-- About -->
+    <string name="about_libs">Perpustakaan Sumber Terbuka</string>
+    <string name="about_rate">Nilai</string>
+    <string name="about_credit">Kontributor</string>
+    <string name="community">Komunitas</string>
+    <string name="more_info_foss">Informasi selengkapnya tentang berkontribusi pada proyek sumber terbuka di Android.</string>
+    <string name="join_community">Gabung Komunitas</string>
+    <string name="bug_reports_suggest_improvements">Laporkan kutu dan saran peningkatan pada GitHub.</string>
+    <string name="help_translating_this_app">Terjemahkan aplikasi ini ke bahasa lain dengan GitHub atau Stringlate!</string>
+    <string name="source_code">Kode Sumber</string>
+    <string name="project_license">Lisensi Proyek</string>
+    <string name="project_contribution_info">Info Kontribusi</string>
+    <string name="more_info_on_how_to_contribute_to_this_project">Bagaimana Anda dapat berkontribusi pada proyek ini.</string>
+    <string name="contribute_code_to_this_project_anybody_welcome">Kontribusikan kode ke proyek. Semua orang dipersilakan untuk mengirimkan perubahan!</string>
+    <string name="project_team">Tim Proyek</string>
+    <string name="contributors_public_info">Kontributor dapat memberikan informasi untuk ditampilkan di sini setelah meningkatkan peluncur.</string>
+    <string name="contribute">Kontribusi</string>
+    <string name="donate">Donasi</string>
+    <string name="help">Bantuan</string>
+    <string name="licenses">Lisensi</string>
+    <string name="contributors">Kontributor</string>
+    <string name="changelog">Log perubahan</string>
+    <string name="more">Lagi</string>
+    <string name="open_source_licenses">Lisensi Sumber Terbuka</string>
+    <string name="rate_the_app">Nilai</string>
+    <string name="translate">Terjemah</string>
+    <string name="bug_reports">Laporkan Kutu</string>
+    <string name="more_info_support">Informasi lebih lanjut tentang menyumbang atau mendukung proyek ini.</string>
+    <string name="android_contribution_guide">Pengembangan Android</string>
+
+    <!-- Settings -->
+    <string name="pref_title__settings">Pengaturan</string>
+    <string name="pref_title__desktop">Desktop</string>
+    <string name="pref_title__dock">Dok</string>
+    <string name="pref_title__app_drawer">Laci Aplikasi</string>
+    <string name="pref_title__appearance">Penampilan</string>
+    <string name="pref_title__behavior">Perilaku</string>
+    <string name="pref_title__advanced">Lanjutan</string>
+    <string name="pref_title__hide_apps">Sembunyikan Aplikasi</string>
+    <string name="pref_title__about">Tentang</string>
+
+    <string name="pref_title__size">Ukuran</string>
+    <string name="pref_title__style">Gaya</string>
+    <string name="pref_title__color">Warna</string>
+    <string name="pref_title__icons">Ikon</string>
+    <string name="pref_title__search_bar">Bilah Pencarian</string>
+    <string name="pref_title__interfaces">Antarmuka</string>
+    <string name="pref_title__inputs">Masukan</string>
+    <string name="pref_title__feels">Perasaan</string>
+    <string name="pref_title__gestures">Gestur</string>
+    <string name="pref_title__others">Lainnya</string>
+    <string name="pref_title__animations">Animasi</string>
+    <string name="pref_title__debug">Debug</string>
+
+    <string name="pref_title__desktop_indicator_style">Gaya Indikator</string>
+    <string name="pref_title__desktop_wallpaper_scroll">Gulir Wallpaper</string>
+    <string name="pref_title__desktop_orientation">Orientasi</string>
+    <string name="pref_title__desktop_show_grid">Tampilkan Kotak</string>
+    <string name="pref_summary__desktop_show_grid">Tampilkan kisi pemandu saat menyeret item.</string>
+    <string name="pref_title__desktop_fullscreen">Layar penuh</string>
+    <string name="pref_summary__desktop_fullscreen">Aktifkan layar penuh untuk desktop.</string>
+    <string name="pref_title__desktop_show_position_indicator">Posisi Indikator</string>
+    <string name="pref_summary__desktop_show_position_indicator">Tampilkan indikator halaman di bawah desktop.</string>
+    <string name="pref_title__desktop_show_label">Tampilkan Label</string>
+    <string name="pref_summary__desktop_show_label">Tampilkan label item di bawah ikonnya.</string>
+    <string name="pref_title__desktop_background_color">Latar belakang</string>
+    <string name="pref_title__desktop_inset_color">Bilah Sistem</string>
+    <string name="pref_title__desktop_folder_color">Folder</string>
+
+    <string name="pref_title__search_bar_enable">Bilah Pencarian</string>
+    <string name="pref_summary__search_bar_enable">Tampilkan bilah pencarian di atas desktop.</string>
+    <string name="pref_title__search_bar_starts_with">Cari aplikasi berdasarkan nama</string>
+    <string name="pref_summary__search_bar_starts_with">Cari aplikasi yang dimulai dengan teks pencarian.</string>
+    <string name="pref_title__search_bar_base_uri">URI Pencarian</string>
+    <string name="pref_summary__search_bar_base_uri">Setel URI yang digunakan untuk penelusuran web.</string>
+    <string name="pref_dialog__search_bar_base_uri">Masukkan URI yang harus digunakan untuk pencarian web. Tag {query} dapat digunakan sebagai placeholder untuk kueri penelusuran, jika tidak ada placeholder yang digunakan, kueri penelusuran akan ditambahkan di akhir URI.</string>
+    <string name="pref_title__search_bar_force_browser">Paksa pencarian peramban</string>
+    <string name="pref_summary__search_bar_force_browser">Selalu gunakan peramban untuk pencarian daring.</string>
+    <string name="pref_title__search_bar_show_hidden_apps">Tampilkan aplikasi tersembunyi</string>
+    <string name="pref_summary__search_bar_show_hidden_apps">Sertakan aplikasi tersembunyi pada hasil pencarian.</string>
+
+    <string name="pref_title__date_bar">Bilah Tanggal</string>
+    <string name="pref_title__date_bar_text_color">Warna Teks</string>
+    <string name="pref_title__date_bar_date_format">Format tanggal</string>
+    <string name="pref_title__date_bar_date_format_custom_1">Kustom Format: Baris 1</string>
+    <string name="pref_title__date_bar_date_format_custom_2">Kustom Format: Baris 2</string>
+
+    <string name="pref_title__dock_show_label">Tampilkan Label</string>
+    <string name="pref_summary__dock_show_label">Tampilkan label item di bawah ikonnya.</string>
+    <string name="pref_title__dock_background_color">Latar belakang</string>
+
+    <string name="pref_title__drawer_style">Gaya</string>
+    <string name="pref_summary__drawer_style">Pilih antara laci aplikasi berhalaman dan vertikal.</string>
+    <string name="pref_title__drawer_show_card_view">Tampilan Kartu</string>
+    <string name="pref_summary__drawer_show_card_view">Tampilkan tampilan kartu di atas latar belakang laci.</string>
+    <string name="pref_title__drawer_remember_position">Ingatkan Laman Terakhir</string>
+    <string name="pref_summary__drawer_remember_position">Lacak halaman laci aplikasi saat ini.</string>
+    <string name="pref_title__drawer_show_position_indicator">Posisi Indikator</string>
+    <string name="pref_summary__drawer_show_position_indicator">Tampilkan indikator halaman atau scrollbar tergantung pada gaya.</string>
+    <string name="pref_title__drawer_show_label">Tunjukkan Label</string>
+    <string name="pref_summary__drawer_show_label">Tampilkan label item di bawah ikonnya.</string>
+    <string name="pref_title__drawer_background_color">Latar belakang</string>
+    <string name="pref_title__drawer_card_color">Tampilan Kartu</string>
+    <string name="pref_title__drawer_label_color">Label</string>
+    <string name="pref_title__drawer_fast_scroll_color">Scrollbar</string>
+    <string name="pref_title__drawer_label_font_size">Ukuran Huruf Label</string>
+
+    <string name="pref_title__gesture_notifications">Lencana Notifikasi</string>
+    <string name="pref_summary__gesture_notifications">Perbarui ikon dengan lencana saat pemberitahuan tiba.</string>
+    <string name="pref_title__gesture_feedback">Umpan Balik Isyarat</string>
+    <string name="pref_summary__gesture_feedback">Dapatkan umpan balik saat menekan lama item di desktop.</string>
+    <string name="pref_title__gesture_quick_swipe">Laci Gesek Cepat</string>
+    <string name="pref_summary__gesture_quick_swipe">Gesek ke atas pada dok untuk membuka laci aplikasi.</string>
+    <string name="pref_title__gesture_double_tap">Ketuk dua kali</string>
+    <string name="pref_title__gesture_swipe_up">Geser ke atas</string>
+    <string name="pref_title__gesture_swipe_down">Geser ke bawah</string>
+    <string name="pref_title__gesture_pinch_in">Jepit Masuk</string>
+    <string name="pref_title__gesture_pinch_out">Jepit Keluar</string>
+
+    <string name="pref_title__theme">Tema</string>
+    <string name="pref_summary__theme">Setel tema untuk seluruh aplikasi.</string>
+    <string name="pref_title__primary_color">Warna Primer</string>
+    <string name="pref_summary__primary_color">Setel warna utama untuk aplikasi.</string>
+    <string name="pref_title__icon_size">Ukuran Ikon</string>
+    <string name="pref_summary__icon_size">Ukuran semua ikon aplikasi.</string>
+    <string name="pref_title__icon_pack">Paket Ikon</string>
+    <string name="pref_summary__icon_pack">Pilih paket ikon yang diinstal.</string>
+    <string name="pref_title__animation_speed_modifier">Kecepatan Animasi</string>
+    <string name="pref_summary__animation_speed_modifier">Ubah kecepatan animasi secara keseluruhan.</string>
+
+    <string name="pref_title__language">Bahasa</string>
+    <string name="pref_summary__language">Ubah bahasa yang digunakan di seluruh peluncur.</string>
+    <string name="pref_title__backup">Cadangan</string>
+    <string name="pref_summary__backup">Cadangkan desktop dan pengaturan Anda ke lokasi mana pun.</string>
+    <string name="pref_title__restore">Pulihkan</string>
+    <string name="pref_summary__restore">Pulihkan desktop dan pengaturan Anda.</string>
+    <string name="pref_title__reset_settings">Reset Pengaturan</string>
+    <string name="pref_summary__reset_settings">Hapus file internal yang digunakan untuk menyimpan pengaturan.</string>
+    <string name="pref_title__reset_database">Reset Basis Data</string>
+    <string name="pref_summary__reset_database">Hapus semua item dari desktop.</string>
+    <string name="pref_title__restart">Muat ulang</string>
+    <string name="pref_summary__restart">Ini dapat digunakan untuk menerapkan beberapa pengaturan secara manual.</string>
+
+    <!-- Arrays -->
+    <string name="vertical_scroll_drawer">Vertikal</string>
+    <string name="horizontal_paged_drawer">Halaman</string>
+
+    <string name="indicator_mode_dots">Titik</string>
+    <string name="indicator_mode_lines">Garis</string>
+
+    <string name="orientation_mode_portrait">Potret</string>
+    <string name="orientation_mode_rotate">Rotasi</string>
+    <string name="orientation_mode_landscape">Lanskap</string>
+
+    <string name="scroll_normal">Normal</string>
+    <string name="scroll_inverse">Terbalik</string>
+    <string name="scroll_off">Mati</string>
+
+    <string name="none">Tidak ada</string>
+    <string name="app">Aplikasi</string>
+
+    <string name="light">Cerah</string>
+    <string name="dark">Gelap</string>
+    <string name="black">Hitam</string>
+
+    <!-- Dialogs -->
+    <string name="please_wait">Mencari aplikasi terinstall. Mohon tunggu.</string>
+    <string name="are_you_sure">Apa kamu yakin? Tindakan ini tidak dapat diurungkan kecuali Anda memiliki cadangan.</string>
+    <string name="device_admin_title">Administrasi Perangkat</string>
+    <string name="device_admin_summary">OpenLauncher memerlukan izin administrasi perangkat untuk mengunci layar Anda.</string>
+    <string name="select_app">Pilih Aplikasi</string>
+    <string name="select_wallpaper">Pilih Wallpaper</string>
+    <string name="select_icon_pack">Pilih Paket Ikon</string>
+    <string name="volume_level_ringtone">Nada dering</string>
+    <string name="volume_level_notification">Notifikasi</string>
+    <string name="volume_level_system">Sistem</string>
+    <string name="volume_level_media">Media</string>
+    <string name="notification_title">Akses Notifikasi</string>
+    <string name="notification_summary">OpenLauncher memerlukan izin pemberitahuan untuk menampilkan lencana ikon.</string>
+
+    <!-- Other -->
+    <string name="columns">Kolom</string>
+    <string name="rows">Baris</string>
+    <string name="on">Hidup</string>
+    <string name="off">Mati</string>
+    <string name="search_hint">Cari</string>
+    <string name="bad_format">Format Buruk</string>
+    <string name="version">Versi</string>
+    <string name="enable">Nyalakan</string>
+    <string name="placeholder">Halo Dunia!</string>
+    <string name="custom">Kustom</string>
+    <string name="default_folder">Tak bernama</string>
+    <string name="default_icons">Bawaan</string>
+
+    <!-- Drag Option View -->
+    <string name="edit">Sunting</string>
+    <string name="info">Info</string>
+    <string name="uninstall">Copot</string>
+    <string name="remove">Hapus</string>
+    <string name="resize">Ubah ukuran</string>
+
+    <!-- Desktop Option View -->
+    <string name="home">Beranda</string>
+    <string name="action">Aksi</string>
+    <string name="lock">Kunci</string>
+    <string name="widget">Widget</string>
+
+    <!-- Toasts -->
+    <string name="toast_not_enough_space">Tidak cukup ruang.</string>
+    <string name="toast_app_uninstalled">Aplikasi dicopot.</string>
+    <string name="toast_device_admin_required">Mohon aktifkan administrasi perangkat.</string>
+    <string name="toast_notification_permission_required">Mohon aktifkan notifikasi.</string>
+    <string name="toast_backup_success">Pencadangan selesai.</string>
+    <string name="toast_backup_error">Ada yang salah.</string>
+    <string name="toast_settings_restored">Pengaturan dipulihkan.</string>
+    <string name="toast_database_deleted">Basis Data dihapus.</string>
+    <string name="toast_icon_pack_error">Mohon baca akses untuk penyimpanan eksternal.</string>
+    <string name="toast_remove_from_group_first">Hapus item dari grup dahulu.</string>
+    <string name="toast_update_group_due_to_missing_items">Aplikasi yang dicopot atau disembunyikan telah dihapus dari grup ini.</string>
+</resources>
